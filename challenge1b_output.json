@@ -1,0 +1,82 @@
+{
+  "metadata": [
+    {
+      "input_documents": [
+        "Breakfast Ideas.pdf",
+        "Dinner Ideas - Mains_1.pdf",
+        "Dinner Ideas - Mains_2.pdf",
+        "Dinner Ideas - Mains_3.pdf",
+        "Dinner Ideas - Sides_1.pdf",
+        "Dinner Ideas - Sides_2.pdf",
+        "Dinner Ideas - Sides_3.pdf",
+        "Dinner Ideas - Sides_4.pdf",
+        "Lunch Ideas.pdf"
+      ]
+    },
+    {
+      "persona": "Food Contractor"
+    },
+    {
+      "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items."
+    }
+  ],
+  "extracted_sections": [
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Pasta Salad",
+      "importance_rank": 1,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Vegetable Lasagna",
+      "importance_rank": 2,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Beef and Broccoli",
+      "importance_rank": 3,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Macaroni and Cheese",
+      "importance_rank": 4,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Breadsticks",
+      "importance_rank": 5,
+      "page_number": 3
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Ingredients: 2 cups cooked pasta (such as rotini or penne) 1/2 cup cherry tomatoes, halved 1/2 cup cucumber, diced 1/4 cup black olives, sliced 1/4 cup feta cheese, crumbled 2 tablespoons olive oil 1 tablespoon red wine vinegar Salt and pepper to taste Instructions: In a large bowl, combine the pasta, tomatoes, cucumber, olives, and feta cheese. Drizzle with olive oil and red wine vinegar. Season with salt and pepper, then toss to combine.",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Ingredients: 9 lasagna noodles, cooked 1 small onion, diced 2 cloves garlic, minced 1 zucchini, sliced 1 bell pepper, diced 1 cup spinach, chopped 1 jar (24 ounces) marinara sauce 1 can (15 ounces) ricotta cheese 1 egg 1 cup shredded mozzarella cheese 1/4 cup grated Parmesan cheese 2 tablespoons olive oil Salt and pepper to taste Instructions: Preheat oven to 375\u00b0F (190\u00b0C). In a skillet, heat olive oil over medium heat. Saut\u00e9 onion, garlic, zucchini, and bell pepper until tender. Add spinach and cook until wilted. In a bowl, mix ricotta cheese, egg, salt, and pepper. In a baking dish, spread a thin layer of marinara sauce. Layer 3 noodles, half the ricotta mixture, half the vegetables, and 1/3 of the mozzarella. Repeat layers. Top with remaining noodles, marinara sauce, mozzarella, and Parmesan cheese. Cover with foil and bake for 25 minutes. Remove foil and bake for another 20 minutes until bubbly. Let stand for 10 minutes before serving. Churros Ingredients: o 1 cup water o 1/2 cup butter o 1 cup flour o 3 eggs o 1/4 cup sugar o 1 teaspoon cinnamon o Oil for frying Instructions: o Bring water and butter to a boil. o Add flour and stir until a dough forms. o Remove from heat and beat in eggs one at a time. o Heat oil in a pan. o Pipe dough into hot oil and fry until golden. o Drain on paper towels and roll in a mixture of sugar and cinnamon. o Serve warm. Coconut Rice Ingredients: o 1 cup rice o 1 cup coconut milk o 1 cup water o 1/4 cup shredded coconut o 1 teaspoon salt Instructions: o Saut\u00e9 shredded coconut until lightly browned. o Add rice, coconut milk, water, and salt. o Bring to a boil, then reduce heat and simmer until rice is tender. o Serve warm. Coleslaw Ingredients: o 1 small cabbage o 2 carrots o 1/2 cup mayonnaise o 2 tablespoons apple cider vinegar o 1 tablespoon sugar o 1 teaspoon salt Instructions: o Shred cabbage and grate carrots. o Mix mayonnaise, vinegar, sugar, and salt in a bowl. o Toss cabbage and carrots with dressing. o Chill for at least 1 hour before serving. Cornbread Ingredients: o 1 cup cornmeal o 1 cup flour o 1/4 cup sugar o 1 tablespoon baking powder o 1/2 teaspoon salt o 1 cup milk o 1/4 cup vegetable oil o 1 egg Instructions: o Preheat oven to 400\u00b0F (200\u00b0C). o Mix cornmeal, flour, sugar, baking powder, and salt in a bowl. o Add milk, oil, and beaten egg, stir until combined. o Pour batter into a greased baking pan. o Bake for 20-25 minutes until golden. o Serve warm. Coxinha Ingredients: o 2 cups shredded chicken o 1 small onion o 2 cloves garlic o 1/4 cup parsley o 1/4 cup cream cheese o 1 cup flour o 1 cup breadcrumbs o 2 eggs o Oil for frying Instructions: o Saut\u00e9 diced onion and minced garlic until softened. o Mix shredded chicken with onion, garlic, chopped parsley, and cream cheese. o Form mixture into drumstick shapes. o Dredge in flour, dip in beaten eggs, and coat with breadcrumbs. o Fry in hot oil until golden. o Drain on paper towels and serve warm. Croque Monsieur Ingredients: o 8 slices bread o 4 slices ham o 1 cup grated Gruy\u00e8re cheese o 1/4 cup b\u00e9chamel sauce o 2 tablespoons butter Instructions: o Preheat oven to 400\u00b0F (200\u00b0C). o Spread b\u00e9chamel sauce on 4 slices of bread. o Top with ham and grated cheese, then cover with remaining bread slices. o Melt butter in a pan and toast sandwiches until golden. o Transfer to a baking sheet, top with more b\u00e9chamel sauce and cheese. o Bake for 10 minutes until cheese is melted and bubbly. o Serve warm. Croquetas Ingredients: o 1/2 cup butter o 1/2 cup flour o 2 cups milk o 1/2 cup ham o 1/4 cup grated cheese o 1 teaspoon salt o 1/2 teaspoon nutmeg o 1 cup breadcrumbs o 2 eggs o Oil for frying Instructions: o Melt butter in a saucepan, stir in flour to make a roux. o Gradually add milk, stirring constantly until thickened. o Stir in diced ham, grated cheese, salt, and nutmeg. o Let mixture cool, then form into croquettes. o Dredge croquettes in flour, dip in beaten eggs, and coat with breadcrumbs. o Fry in hot oil until golden. o Drain on paper towels and serve warm. Dal Tadka Ingredients: o 1 cup lentils o 4 cups water o 1 small onion o 2 cloves garlic o 1 teaspoon cumin o 1 teaspoon turmeric o 1 teaspoon coriander o 1 teaspoon garam masala o 1 teaspoon salt o 2 tablespoons oil Instructions: o Rinse lentils and cook in water until tender. o Heat oil in a pan and saut\u00e9 diced onion and minced garlic until translucent. o Add cumin, turmeric, coriander, and garam masala, cook for 1 minute. o Add cooked lentils and stir to combine. o Simmer for 10 minutes, stirring occasionally. o Add salt to taste and serve. Deviled Eggs Ingredients: o 6 eggs o 1/4 cup mayonnaise o 1 tablespoon mustard o 1 tablespoon vinegar o 1 teaspoon salt o 1/2 teaspoon paprika Instructions: o Hard-boil eggs, then peel and halve. o Remove yolks and mash with mayonnaise, mustard, vinegar, and salt. o Spoon or pipe yolk mixture into egg whites. o Sprinkle with paprika and serve. Dolmas Ingredients: o 1 jar grape leaves o 1 cup rice o 1 small onion o 1/4 cup pine nuts o 1/4 cup currants o 1/4 cup lemon juice o 1/4 cup olive oil o 1 teaspoon salt Instructions: o Rinse grape leaves and pat dry. o Saut\u00e9 diced onion in olive oil until translucent. o Add rice, pine nuts, and currants, cook for 5 minutes. o Add 1 cup water, lemon juice, and salt, simmer until rice is tender. o Place a spoonful of rice mixture on each grape leaf and roll tightly. o Arrange dolmas in a pot, cover with water, and simmer for 30 minutes. o Serve warm or chilled. Dumplings Ingredients: o 1 package dumpling wrappers o 1/2 pound ground pork o 1/2 cup chopped cabbage o 1/4 cup chopped green onions o 2 cloves garlic o 1 tablespoon soy sauce o 1 teaspoon sesame oil o Oil for frying Instructions: o Mix ground pork, cabbage, green onions, minced garlic, soy sauce, and sesame oil in a bowl. o Place a spoonful of filling on each wrapper and fold to seal. o Fry in hot oil until golden, then steam for 5 minutes. o Serve with dipping sauce. Edamame Ingredients: o 1 pound edamame (soybeans in pods) o 1 tablespoon sea salt Instructions: o Steam or boil edamame until tender (about 5 minutes). o Drain and sprinkle with sea salt. o Serve warm. Egusi Soup Ingredients: o 1 cup ground egusi seeds o 1/2 pound beef o 1/2 pound fish o 1 small onion o 2 cloves garlic o 4 tomatoes o 1/4 cup palm oil o 1 teaspoon crayfish powder o 1 teaspoon salt o 1/2 teaspoon pepper o 4 cups water o 1/4 cup spinach Instructions: o Saut\u00e9 diced onion and minced garlic in palm oil until softened. o Add diced tomatoes, ground egusi seeds, and crayfish powder, cook for 5 minutes. o Add beef, fish, salt, pepper, and water, simmer until meat is tender. o Stir in chopped spinach and cook for 5 minutes. o Serve warm. Egg Rolls Ingredients: o 1 package egg roll wrappers o 1 cup shredded cabbage o 1/2 cup grated carrots o 1/2 cup bean sprouts o 1/4 cup chopped green onions o 2 tablespoons soy sauce o 1 tablespoon sesame oil o Oil for frying Instructions: o Mix cabbage, carrots, bean sprouts, green onions, soy sauce, and sesame oil in a bowl. o Place a spoonful of filling on each wrapper and roll tightly. o Fry in hot oil until golden. o Drain on paper towels and serve with dipping sauce. Elote Ingredients: o 4 ears of corn o 1/4 cup mayonnaise o 1/4 cup sour cream o 1/2 cup cotija cheese o 1 teaspoon chili powder o 1 lime Instructions: o Grill the corn until charred. o Mix mayonnaise and sour cream in a bowl. o Brush the mixture onto the corn. o Sprinkle with cotija cheese and chili powder. o Squeeze lime juice over the top and serve. Empanadas Ingredients: o 2 cups flour o 1/2 cup butter o 1/4 cup water o 1 egg o 1/2 pound ground beef o 1 small onion o 2 cloves garlic o 1/4 cup",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Ingredients: 1 pound beef sirloin, thinly sliced 2 cups broccoli florets 1 small onion, diced 2 cloves garlic, minced 1/4 cup soy sauce 1/4 cup beef broth 2 tablespoons oyster sauce 1 tablespoon cornstarch 2 tablespoons vegetable oil Cooked rice for serving Instructions: In a small bowl, mix soy sauce, beef broth, oyster sauce, and cornstarch. In a large skillet, heat vegetable oil over medium heat. Cook sliced beef until browned, then set aside. In the same skillet, saut\u00e9 diced onion and minced garlic until fragrant. Add broccoli florets and stir-fry until tender. Return beef to the skillet and pour sauce over the top. Cook until sauce is thickened. Serve over cooked rice.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "No content found between the given headings.",
+      "page_number": 3
+    }
+  ]
+}
